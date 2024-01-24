@@ -1,6 +1,10 @@
 {
   "name": "pascalmin1",
+<<<<<<< HEAD
   "version": "0.1.1",
+=======
+  "version": "0.2.1",
+>>>>>>> 0.2.0/AA
   "description": "pascalmin1",
   "main": "index.js",
   "scripts": {
