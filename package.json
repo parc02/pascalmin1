@@ -1,0 +1,14 @@
+{
+  "name": "pascalmin1",
+  "version": "0.1.0",
+  "description": "pascalmin1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pascalmin1"
+  ],
+  "author": "pascalmin1",
+  "license": "ISC"
+}
