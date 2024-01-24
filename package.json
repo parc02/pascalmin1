@@ -12,6 +12,6 @@
   "author": "pascalmin1",
   "license": "ISC",
   "bin": {
-	  "pascalmin1": "./index.js"
+    "pascalmin1": "./index.js"
   }
 }
