@@ -29,3 +29,34 @@ console.log(`
                                 @@                @@
                                  @
 	`);
+
+console.log('------------------------------------');
+
+
+class Rselect{
+    constructor()
+    {
+	this.args=process.argv.slice(2);
+	this.length=this.args.length;
+
+	if(this.length<=2)
+	{
+	    console.log('2명이상 선택하세요');
+	    process.exit();
+	}
+    }
+}
+class select extends Rselect{
+    constructor()
+    {
+	super();
+    }
+    print(){
+const selectedP = Math.floor(Math.random()*this.length);
+console.log(`발표자: ${this.args[selectedP]}`);
+    }
+}
+const List = new select();
+List.print();
+
+
