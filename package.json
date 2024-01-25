@@ -1,14 +1,7 @@
 {
-  <<<<<<< HEAD
-<<<<<<< HEAD
-  "version": "0.1.1",
-=======
-  "version": "0.2.1",
->>>>>>> 0.2.0/AA
-=======
+  "name": "pascalmin1",
   "version": "0.2.0",
->>>>>>> parent of af8f0c7 (NPM PUBLISH)
-
+  "version": "0.2.1",
   "description": "pascalmin1",
   "main": "index.js",
   "scripts": {
