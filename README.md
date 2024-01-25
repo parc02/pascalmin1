@@ -5,11 +5,11 @@
 - Image to Ascii Art
 ![ascii-art (1)](https://github.com/parc02/pascalmin1/assets/148880521/9f7af8a4-5145-4363-8585-1d5ea2bcafb2)
 
-### 요구사항
+### REQUIREMENTS
 - 2명이상의 발표자를 입력받음
 - 입력받은 발표자들중 랜덤한 사람을 뽑아서 출력함
 
-### use
+### USE
 ```
 $ npm install -g pascalmin1
 $ pascalmin1
@@ -19,11 +19,11 @@ $ pascalmin1 발표자1 발표자2 발표자3 (...)
 발표자: (Random)발표자
 ```
 
-### dev stack
+### DEV STACK
 - WSL > nvm > nodejs v20.11.0 > npm cli
 
 
-### publish
+### PUBLISH
 ```
 $ npm login
 $ npm publish
