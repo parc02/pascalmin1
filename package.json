@@ -5,10 +5,8 @@
   "version": "0.1.1",
 =======
   "version": "0.2.1",
->>>>>>> 0.2.0/AA
-=======
-  "version": "0.2.0",
->>>>>>> parent of af8f0c7 (NPM PUBLISH)
+
+
   "description": "pascalmin1",
   "main": "index.js",
   "scripts": {
