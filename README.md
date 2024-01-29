@@ -2,6 +2,14 @@
 
 ### VERSION
 [v0.3.2](https://www.npmjs.com/package/pascalmin1/v/0.3.2)
+
+<details>
+<summary>Other Versions</summary>
+  
+- [v0.3.0](https://www.npmjs.com/package/pascalmin1/v/0.3.0)
+- [v0.2.1](https://www.npmjs.com/package/pascalmin1/v/0.2.1)
+- [v0.1.1](https://www.npmjs.com/package/pascalmin1/v/0.1.1)
+</details>
 - Original Image
 ![image](https://github.com/parc02/pascalmin1/assets/148880521/228b13a6-ecb1-4acf-b1dc-bf24a777236e)
 
